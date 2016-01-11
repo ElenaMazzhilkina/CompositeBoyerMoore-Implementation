@@ -17,5 +17,5 @@ Basic Information
 
 Functions used in the Project
 The functions used in the project so far do come under the category of:-
-#	Basic String Functions.
-#	Basic Integer/Float Functions.
+•	Basic String Functions.
+•	Basic Integer/Float Functions.
